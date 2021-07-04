@@ -1,8 +1,8 @@
 ### ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DefaultO.DefaultO)
-🔭 I’m currently working on c++ projects and security research
-📫 How to reach me: Discord notJ0hn#9444
-🌱 I’m learning everything i can before college🤣
-👯 I’m looking to collaborate with other content creators
+-🔭 I’m currently working on c++ projects and security research
+-📫 How to reach me: Discord notJ0hn#9444
+-🌱 I’m learning everything i can before college🤣
+-👯 I’m looking to collaborate with other content creators
 
 <!--
 **Skengdoo/Skengdoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
