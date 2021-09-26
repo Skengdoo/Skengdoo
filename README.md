@@ -6,4 +6,4 @@
 - Cheat Developer
 - Basic Reverse Engineer
 - Low Level Programmer :)
-"YOUR CODE IS ONLY LIMITED BY YOUR IMAGINATION"
+- **"YOUR CODE IS ONLY LIMITED BY YOUR IMAGINATION"**
