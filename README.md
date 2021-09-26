@@ -6,3 +6,7 @@
 - Student :)
 - Worked on many projects
 - **"YOUR CODE IS ONLY LIMITED BY YOUR IMAGINATION"**
+
+
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
