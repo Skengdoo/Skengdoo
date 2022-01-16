@@ -4,8 +4,9 @@ been out of the cheat development scene for a few months due to extreme presure 
 ### ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DefaultO.DefaultO)
 - 🔭 Just chilling out and learning bigger and better things
 ![Status](https://github-readme-stats.vercel.app/api?username=Skengdoo&show_icons=true&hide_border=true&count_private=true&theme=buefy)
-- College Student :)
+- Student :)
 - **"YOUR CODE IS ONLY LIMITED BY YOUR IMAGINATION"**
+- happy to develop for you for $
 
 
 
