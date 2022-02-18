@@ -21,8 +21,13 @@
 <h4 align="center">Seller Source code & Cheating Private</h4>
 <p align="center">Discord: this#8309</p>
 <h4 align="center">For any requests or other</h4>
+<p align="center">Discord Server: https://discord.gg/ZxKe3nH7K3
+</pre><br>
+
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
+     <a href="https://discord.gg/ZxKe3nH7K3">
         <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/784968545926774787.png"/>
+     </a>
 </p>
