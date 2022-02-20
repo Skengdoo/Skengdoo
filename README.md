@@ -22,7 +22,7 @@
 <h4 align="center">Freelance developer | pay me to develop for you :) </h4>
 <p align="center">Discord: i35#1923</p>
 <h4 align="center">For any requests or other</h4>
-<p align="center">New Discord Server: https://discord.gg/ZxKe3nH7K3
+
 </pre><br>
 
 
