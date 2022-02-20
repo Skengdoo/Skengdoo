@@ -20,15 +20,10 @@
 <h2 align="center">Contact me</h2>
 <h4 align="center">Selling Source codes & Private Cheats</h4>
 <h4 align="center">Freelance developer | pay me to develop for you :) </h4>
-<p align="center">Discord: this#8309</p>
+<p align="center">Discord: i35#1923</p>
 <h4 align="center">For any requests or other</h4>
 <p align="center">New Discord Server: https://discord.gg/ZxKe3nH7K3
 </pre><br>
 
 
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-     <a href="https://discord.gg/ZxKe3nH7K3">
-        <img title="skengdoo discord" alt="skengdoo's discord" src="https://discord.c99.nl/widget/theme-3/784968545926774787.png"/>
-     </a>
-</p>
+
