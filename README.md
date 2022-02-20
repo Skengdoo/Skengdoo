@@ -18,9 +18,9 @@
 
 
 <h2 align="center">Contact me</h2>
-<h4 align="center">Selling Source codes & Private Cheats</h4>
+<h4 align="center">To Purchase Source codes & Private Cheats</h4>
 <h4 align="center">Freelance developer | pay me to develop for you :) </h4>
-<p align="center">Discord: nulled#9524</p>
+<p align="center">Discord: skengdoo#9524</p>
 <h4 align="center">For any requests or other</h4>
 
 </pre><br>
