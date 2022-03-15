@@ -1,7 +1,7 @@
 ### Hey I'm Skeng , A Security researcher and reverse engineer im mostly interested in Windows kernel development, Cheat Development and programming. 
 
 
-## Cheat Injector Services ( undetected injector for your cheat ) 
+## freelance developer
 - hire me to code for you ! discord : skeng#9524
 ### Amount of people who view my work ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DefaultO.DefaultO)
 - 🔭 Just chilling out and learning bigger and better things
