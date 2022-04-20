@@ -13,8 +13,8 @@
 
 
 <h2 align="center">Contact me</h2>
-<h3 align="center">Selling Private Sources + Services + Development Services </h3>
-<h4 align="center">Reverse engineer + Cheat developer</h4>
+<h3 align="center">I Sell Private Sources + Services + Development Services </h3>
+<h4 align="center">Reverse engineer + Cheat developer + Software developer</h4>
 <p align="center">Discord: skeng#9524</p>
 
 
